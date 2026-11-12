@@ -9,8 +9,8 @@
 <br/><br/>
 
 <!-- LEGO GIRL HERO IMAGE -->
-<!-- Pixel art hero: upload lego-girl-coding.svg to the assets folder of this repo (assets/lego-girl-coding.svg) -->
-<img src="https://raw.githubusercontent.com/parmeetkxur/parmeetkxur/main/assets/lego-girl-coding.svg" width="100%" alt="Lego girl coding"/>
+<!-- Hero art: upload coding-vibes.svg to the assets folder of this repo (assets/coding-vibes.svg) -->
+<img src="https://raw.githubusercontent.com/parmeetkxur/parmeetkxur/main/assets/coding-vibes.svg" width="70%" alt="Girl coding at her desk"/>
 
 <br/><br/>
 
