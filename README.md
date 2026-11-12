@@ -9,8 +9,8 @@
 <br/><br/>
 
 <!-- LEGO GIRL HERO IMAGE -->
-<!-- Upload the image to assets/lego-girl-coding.png in this repo. If it is a .gif/.jpg, change the extension below to match (case sensitive) -->
-<img src="https://raw.githubusercontent.com/parmeetkxur/parmeetkxur/main/assets/lego-girl-coding.png" width="100%" alt="Lego girl coding"/>
+<!-- Pixel art hero: upload lego-girl-coding.svg to the assets folder of this repo (assets/lego-girl-coding.svg) -->
+<img src="https://raw.githubusercontent.com/parmeetkxur/parmeetkxur/main/assets/lego-girl-coding.svg" width="100%" alt="Lego girl coding"/>
 
 <br/><br/>
 
