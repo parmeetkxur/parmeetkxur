@@ -174,10 +174,6 @@ Detects fatigue in real time and alerts the user · trained on a Kaggle dataset
   <img src="https://img.shields.io/badge/%40parmeetkxur-2563EB?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<sub>🐢 slow and steady, one algorithm at a time 🌸</sub>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9CCBFF,60:4A7FD6,100:24418A&height=120&section=footer"/>
 
 </div>
