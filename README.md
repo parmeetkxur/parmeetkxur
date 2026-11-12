@@ -10,7 +10,7 @@
 
 <!-- LEGO GIRL HERO IMAGE -->
 <!-- Hero art: upload coding-vibes.jpg to the assets folder of this repo (assets/coding-vibes.jpg) -->
-<img src="https://raw.githubusercontent.com/parmeetkxur/parmeetkxur/main/assets/coding-vibes.jpg" width="70%" alt="Girl coding at her desk"/>
+<img src="assets/coding-vibes.jpg" width="70%" alt="Girl coding at her desk"/>
 
 <br/><br/>
 
