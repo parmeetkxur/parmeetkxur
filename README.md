@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════ HEADER ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0610,50:3b0a24,100:FF2E93&height=200&section=header&text=Hey%2C+I%27m+Parmeet+%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer+x+Problem+Solver&descAlignY=56&descAlign=50&descSize=18&descColor=ffd6ea"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0F1F4D,100:2563EB&height=200&section=header&text=Hey%2C+I%27m+Parmeet+%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer+x+Problem+Solver&descAlignY=56&descAlign=50&descSize=18&descColor=DBE7FF"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF4DA6&center=true&vCenter=true&width=700&height=45&lines=Exploring+the+world+one+algorithm+at+a+time+%F0%9F%90%A2;Full+Stack+%7C+MERN+%7C+ML+%7C+LLMs;Turning+ideas+into+real+products+%F0%9F%8C%B7;Learning+in+public.+Building+in+public." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=45&lines=Exploring+the+world+one+algorithm+at+a+time+%F0%9F%90%A2;Full+Stack+%7C+MERN+%7C+ML+%7C+LLMs;Turning+ideas+into+real+products+%F0%9F%8C%B8;Learning+in+public.+Building+in+public." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -16,18 +16,18 @@
 
 <!-- Badges -->
 <a href="https://github.com/parmeetkxur">
-  <img src="https://img.shields.io/badge/GitHub-FF2E93?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/-parmeetkaur/">
-  <img src="https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://x.com/parmeetkxur">
-  <img src="https://img.shields.io/badge/%40parmeetkxur-880E4F?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%40parmeetkxur-1E3A8A?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=parmeetkxur&style=for-the-badge&color=FF4DA6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=parmeetkxur&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -37,12 +37,12 @@
 <tr>
 <td width="55%" valign="top">
 
-## 🌷 About Me
+## 🌸 About Me
 
 - 🐢 Exploring the world **one algorithm at a time**
 - 👁️ Built **[EyeQAI](https://github.com/parmeetkxur/EyeQAI)**, a real-time drowsiness detection system
 - 🤖 ML side: XGBoost, OpenCV, MediaPipe, LLM integrations
-- 🎀 Learn → Build → Share → Repeat
+- 💙 Learn → Build → Share → Repeat
 
 </td>
 <td width="45%" valign="top">
@@ -99,13 +99,13 @@ const parmeet = {
 &nbsp;
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" height="46"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LLM%20APIs-FF2E93?style=flat-square&logoColor=white" height="46"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-2563EB?style=flat-square&logoColor=white" height="46"/>
 
 </div>
 
 ---
 
-## 💖 Featured Projects
+## 💙 Featured Projects
 
 <div align="center">
 
@@ -117,9 +117,9 @@ const parmeet = {
 
 Detects fatigue in real time and alerts the user · trained on a Kaggle dataset
 
-![Python](https://img.shields.io/badge/Python-FF2E93?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-C2185B?style=flat-square)
-![Real-time](https://img.shields.io/badge/Real--time-880E4F?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-1D4ED8?style=flat-square)
+![Real-time](https://img.shields.io/badge/Real--time-1E3A8A?style=flat-square)
 
 </td>
 </tr>
@@ -138,7 +138,7 @@ Detects fatigue in real time and alerts the user · trained on a Kaggle dataset
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=parmeetkxur&theme=dark&hide_border=true&stroke=FF4DA6&ring=FF2E93&fire=FF4DA6&currStreakLabel=FF4DA6&currStreakNum=ffd6ea&sideNums=ffd6ea&background=1a0612&sideLabels=ffb3d9&dates=ff8fc7"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=parmeetkxur&theme=dark&hide_border=true&stroke=3B82F6&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=DBE7FF&sideNums=DBE7FF&background=0A1230&sideLabels=B3C8FF&dates=7AA2F7"/>
 
 </div>
 
@@ -163,21 +163,21 @@ Detects fatigue in real time and alerts the user · trained on a Kaggle dataset
 <div align="center">
 
 <a href="https://github.com/parmeetkxur">
-  <img src="https://img.shields.io/badge/GitHub-FF2E93?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/-parmeetkaur/">
-  <img src="https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://x.com/parmeetkxur">
-  <img src="https://img.shields.io/badge/%40parmeetkxur-880E4F?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%40parmeetkxur-1E3A8A?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <sub>🐢 slow and steady, one algorithm at a time 🌸</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,60:3b0a24,100:0d0610&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:0F1F4D,100:050816&height=120&section=footer"/>
 
 </div>
